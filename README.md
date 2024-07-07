@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Miguel Barbosa</h1>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://linkedin.com/in/miguel-barbosa1206" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="miguel-barbosa1206" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/miguel1206msb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="miguel1206msb" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
