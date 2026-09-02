@@ -25,7 +25,7 @@ Building useful things and learning in public.
 ## Selected work
 
 - **[Dockerized-Notes-App](https://github.com/Miggy1206/Dockerized-Notes-App)** · ⭐ 0
-- **[Url_Shortner_Backend](https://github.com/Miggy1206/Url_Shortener_Backend)**  · ⭐ 0
+- **[Url_Shortener_Backend](https://github.com/Miggy1206/Url_Shortener_Backend)**  · ⭐ 0
 
 ## Let’s connect
 
