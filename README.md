@@ -2,7 +2,7 @@
 <h3 align="center">Full-Stack Software Engineer (Graduate)</h3>
 
 <p align="center">
-Software engineer with production experience gained through full-time industry work during university, now on a graduate engineering scheme. Focused on backend systems, cloud infrastructure, and building things that hold up under real load.
+Focused on backend systems, cloud infrastructure, and building things that hold up under real load.
 </p>
 
 <p align="center">
