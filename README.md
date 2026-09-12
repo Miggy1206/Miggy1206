@@ -22,17 +22,13 @@ Software engineer with production experience gained through full-time industry w
 
 ### Projects
 
-**[URL Shortener Backend](https://github.com/Miggy1206/Url_Shortener_Backend)** — C# / .NET 10
+**[URL Shortener Backend](https://github.com/Miggy1206/Url_Shortener_Backend)** — C# / .NET 10 (In Progress)
 ASP.NET Core API with PostgreSQL, Redis cache-aside, and async click-tracking via Kafka. Moving click-count persistence to Kafka improved throughput ~10.5x (207 → 2,173 req/s) and reduced p95 latency ~23.5x under k6 load testing. Full test suite (xUnit, Moq, Testcontainers), multi-stage Docker build, GitHub Actions CI/CD with Trivy scanning and OIDC deployment to AWS ECR.
-
-**Racer Tracking App** — Solo project, production use
-Built and maintained independently for a live charity race event; helped raise £5,000. Automated checkpoint screening via distance calculation, plus a dashboard for manual tracking of points, images, and location.
 
 **[Dockerized-Notes-App](https://github.com/Miggy1206/Dockerized-Notes-App)** — JavaScript
 Containerised notes application with a Docker-based setup for consistent environments.
 
-**[LifeOS](https://github.com/Miggy1206/LifeOS)** — In development
-Personal life-management system, actively evolving.
+Further Private Projects Completed and In progress
 
 ---
 
